@@ -34,6 +34,19 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+            {%- if page.social %}
+            <!-- Social -->
+            <div class="social">
+              <div class="contact-icons">
+              {% include social.html %}
+              </div>
+  
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+              
+            </div>
+            {%- endif %}
           </div>
           {%- endif %}
 
@@ -54,19 +67,7 @@ layout: default
           {%- include exp.html %}
           {%- endif %}
 
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
 
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
-          {%- endif %}
         </article>
         
         <!-- <a href="https://clustrmaps.com/site/1brp6"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Uo0I0-wnmWvSekoPOSblx8aaDvf_LJ4bUqjqjAR1V10&cl=ffffff" /></a> -->
