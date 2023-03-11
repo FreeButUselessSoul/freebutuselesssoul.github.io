@@ -6,5 +6,5 @@ publication: In <i>Advances in Neural Information Processing Systems</i>, 2022.
 year: 2022.12
 pdf: https://openreview.net/pdf?id=KglFYlTiASW
 code: https://github.com/FreeButUselessSoul/TNeRF
-official_link: 
+official_link: ''
 ---
