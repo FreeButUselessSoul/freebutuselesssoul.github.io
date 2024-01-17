@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Emai1: peterzhu \[at\] pku \[dot\] edu \[dot\] cn
 
-I am a first-year Ph.D. student at [CameraLab](https://camera.pku.edu.cn/), [Peking University](https://english.pku.edu.cn). I received my B.Sc. degree from the school of electronic engineering and computer science in [Peking University](https://english.pku.edu.cn).
+I am a first-year Ph.D. student at National Key Lab of General AI, School of Intelligence Science and Technology, [Peking University](https://english.pku.edu.cn). Currently I'm working in [CameraLab](https://camera.pku.edu.cn/), supervised by Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) and Prof. [Chao Xu](https://www.cis.pku.edu.cn/info/1084/1267.htm). I received my B.Sc. degree from [school of electronic engineering and computer science](https://eecs.pku.edu.cn/xxkxjsxy/Home/HOME.htm) in [Peking University](https://english.pku.edu.cn).
 
 My research interest lies in computer vision and computational photography. I'm open to new ideas and cross-field collaboration. Feel free to contact me for further discussion.
 
