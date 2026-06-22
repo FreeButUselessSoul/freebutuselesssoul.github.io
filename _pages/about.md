@@ -16,7 +16,7 @@ exp: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-Emai1: peterzhu \[at\] pku \[dot\] edu \[dot\] cn
+<span style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;">Emai1: peterzhu \[at\] pku \[dot\] edu \[dot\] cn</span>
 
 I am a fourth-year Ph.D. student at National Key Lab of General AI, School of Intelligence Science and Technology, [Peking University](https://english.pku.edu.cn). Currently I'm working in [CameraLab](https://camera.pku.edu.cn/), supervised by Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/) and Prof. [Chao Xu](https://www.cis.pku.edu.cn/info/1084/1267.htm). I received my B.Sc. degree from [school of electronic engineering and computer science](https://eecs.pku.edu.cn/xxkxjsxy/Home/HOME.htm) in [Peking University](https://english.pku.edu.cn).
 
